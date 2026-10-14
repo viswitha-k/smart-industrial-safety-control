@@ -240,7 +240,7 @@ Consult the applicable editions and qualified safety guidance when designing sys
 
 - Contributor 1 —  viswitha 2510080015
 - Contributor 2 —  akshaya 2510080024
-- Contributor 3 —  sruthi 2510080028
+- Contributor 3 —  shruthi 2510080028
 - contributor 4 -  akhil 2510080009
 - contributor 5 -  shravani 2510080065
 - contributor 6 -  jeshwanth 2510080047
